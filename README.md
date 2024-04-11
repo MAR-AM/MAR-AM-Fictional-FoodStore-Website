@@ -1,5 +1,6 @@
 # MAR-AM-Fictional-FoodStore-Website
 Gourmet Delights: A Web Showcase of Flavorful Offerings 
+
 visite the website [here -!](https://mar-am.github.io/MAR-AM-Fictional-FoodStore-Website/)
 
 This webpage serves as a vibrant portal to "Food Store," a culinary haven that tantalizes the taste buds with its array of gourmet offerings. Featuring a sleek, user-friendly design with Bootstrap framework for responsiveness and interactive elements, the site welcomes visitors with an inviting overview of what the Food Store has to offer. From the moment you land on the page, you're greeted with a captivating visual and textual introduction to the store's philosophy of blending taste with health. Navigation is streamlined through a fixed-top navbar, guiding you effortlessly through sections like Home, About, Menu, and App Download.
